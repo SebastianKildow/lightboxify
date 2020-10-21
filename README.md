@@ -4,8 +4,8 @@
 ###### Setup
 Just add the 'lightboxify.js' file to your project and add these two lines to your html file:
 
-`<script src="js/lightboxify.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>`
+`<script src="js/lightboxify.js"></script>`
+`<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>`
 ##### Creating and Registering your Lightbox
 
 There are currently 5 options for your lightbox *border size, animation style, animation length, border color, and the class name you used with in your html*
